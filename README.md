@@ -2,6 +2,8 @@
 背景除去モデルである[DIS/IS-Net](https://github.com/xuebinqin/DIS)のPythonでのONNX推論サンプルです。<br>
 変換自体を試したい方は、Google Colaboratory上で[Convert2ONNX.ipynb](Convert2ONNX.ipynb)を使用ください。<br>
 
+![image](https://user-images.githubusercontent.com/37477845/221350125-de577e58-dc1c-4dc2-80ed-4dd253cfeacf.png)
+
 # Requirement 
 * OpenCV 4.5.3.56 or later
 * onnxruntime 1.8.0 or later
